@@ -28,8 +28,8 @@
 ### 📫 Connect With Me:
 - 📍 Location: Bathinda, Punjab, India  
 - 💌 Email: `pmanojammu9@gmail.com`  
-- 💼 LinkedIn: www.linkedin.com/in/ammu-p-manoj-64976a377  
-- 🧑‍💻 GitHub: (https://github.com/Ammupmanoj)
+- 💼 LinkedIn: [www.linkedin.com/in/ammu-p-manoj-64976a377](https://www.linkedin.com/in/ammu-p-manoj-64976a377)  
+- 🧑‍💻 GitHub: [github.com/Ammupmanoj](https://github.com/Ammupmanoj)
 
 ---
 
@@ -53,3 +53,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammupmanoj&layout=compact&theme=radical" height="160"/>
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ammupmanoj&theme=dracula&row=1" />
+</p>
