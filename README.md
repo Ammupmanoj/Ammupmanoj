@@ -28,8 +28,8 @@
 ### 📫 Connect With Me:
 - 📍 Location: Bathinda, Punjab, India  
 - 💌 Email: `pmanojammu9@gmail.com`  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com) *(replace with your actual link)*  
-- 🧑‍💻 GitHub: [github.com/Ammupmanoj](https://github.com/Ammupmanoj)
+- 💼 LinkedIn: www.linkedin.com/in/ammu-p-manoj-64976a377  
+- 🧑‍💻 GitHub: (https://github.com/Ammupmanoj)
 
 ---
 
