@@ -1,40 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ashu (aka Ammupmanoj)</h1>
-<h3 align="center">🚀 Data Analytics Learner | Python Enthusiast | Future Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Ashu (Ammupmanoj)</h1>
+<h3 align="center">🚀 B.Tech CSE Student | Data Science & Analytics Enthusiast | Lifelong Learner</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
 ### 💫 About Me:
-- 🎓 Currently pursuing **Data Analytics**
-- 🧠 Learning: Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, and more
-- 🎯 Goal: Become a kickass **Data Scientist** 💼
-- ✨ Fun Fact: Excel me formulas lagana bhi ab cool lagta hai 😄
+- 🎓 I’m currently pursuing **B.Tech in Computer Science Engineering**
+- 🏫 Studying at **Guru Kashi University**, Talwandi Sabo, Bathinda
+- 🔍 Passionate about **Data Science** & **Data Analytics**
+- 💡 I love exploring tools like Python, Pandas, SQL, and visualizing data stories
+- 🧠 Currently working on mini projects to build my portfolio
+- ✨ Fun Fact: Coding + Coffe = Perfect Day 😄
 
 ---
 
 ### 🛠️ Tech Stack I’m Working With:
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,figma,sqlite" /><br>
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Streamlit` • `Excel`
-
----
-
-### 📊 My Projects:
-| Project | Tech Used | Link |
-|--------|-----------|------|
-| 📈 **Social Media Ad Click Prediction** | Logistic Regression, Pandas, Streamlit | [View Repo](https://github.com/Ammupmanoj/social-media-ad-click-prediction) |
-| 📚 **Book Recommendation System** | ML, TF-IDF, Streamlit | [View Repo](https://github.com/Ammupmanoj/book-recommendation-system) |
-| 🎵 **Music Recommendation** | Cosine Similarity, Sklearn | [Coming Soon] |
-
-> ✔️ More exciting projects coming up — 15 mini projects before August 15! 🗓️
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,sqlite" /><br>
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `SQL` • `Excel` • `Streamlit`
 
 ---
 
 ### 📫 Connect With Me:
-- 📍 Location: Bangalore, India
-- 💌 Email: `your-email-here@gmail.com`
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🧑‍💻 [GitHub](https://github.com/Ammupmanoj)
+- 📍 Location: Bathinda, Punjab, India
+- 💌 Email: `pmanojammu9@gmail.com`
+- 💼 LinkedIn: [Your LinkedIn Link](https://linkedin.com)
+- 🧑‍💻 GitHub: [github.com/Ammupmanoj](https://github.com/Ammupmanoj)
 
 ---
 
@@ -46,8 +37,8 @@
 
 ---
 
-### 😎 Fun Motto:
-> **“Seekhna band matlab jeetna band!”** 💪  
-> Let's keep growing, one line of code at a time. 🚀
+### ✨ ashu:
+> **“Seekhna band matlab jeetna band.”**  
+> Har din thoda sa seekhna = ek din bada ban jaana 💫
 
 ---
