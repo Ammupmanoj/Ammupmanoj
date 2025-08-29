@@ -51,15 +51,17 @@
   SQL • Excel • Streamlit
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammupmanoj&show_icons=true&theme=radical" height="160"/>
-
 </p>
 
----
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarimhameed-code&show_icons=true&theme=radical" alt="Sarim's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimhameed-code&layout=compact&theme=radical" alt="Top Languages"/>
+  <br>
+
+</p>
 
 ### 💬 My Coding Quote
 
