@@ -30,15 +30,6 @@
 </h2>
 
 
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ammupmanoj&theme=dracula&row=1" />
-</p>
-
----
 
 ### 💫 About Me:
 - 🎓 I’m currently pursuing **B.Tech in Computer Science Engineering**
@@ -65,7 +56,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ammupmanoj&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammupmanoj&layout=compact&theme=radical" height="160"/>
+
 </p>
 
 ---
