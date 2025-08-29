@@ -29,7 +29,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Data+Enthusiast;👩‍💻+Learning+One+Bug+at+a+Time;🚀+Coding+is+my+Superpower!" />
 </h2>
 
-
+---
 
 ### 💫 About Me:
 - 🎓 I’m currently pursuing **B.Tech in Computer Science Engineering**
@@ -46,25 +46,24 @@
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,sqlite" />
 </p>
 
+---
+
+### 📊 GitHub Stats & Languages
 <p align="center">
-  Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn  
-  SQL • Excel • Streamlit
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammupmanoj&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammupmanoj&layout=compact&theme=radical" height="160"/>
 </p>
 
-</p>
+---
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
+### 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarimhameed-code&show_icons=true&theme=radical" alt="Sarim's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarimhameed-code&layout=compact&theme=radical" alt="Top Languages"/>
-  <br>
-
+  <img src="https://github.com/Ammupmanoj/Ammupmanoj/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+---
 
 ### 💬 My Coding Quote
-
 > 🚀 **"Coding isn’t just my skill, it’s my superpower — one bug fix at a time."**
 
 ---
@@ -73,5 +72,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36FFC4&center=true&vCenter=true&width=600&lines=Powered+by+logic.;Fueled+by+coffee.;Driven+by+curiosity."/>
 </p>
-
----
