@@ -48,20 +48,10 @@
 
 ---
 
-### 📊 GitHub Stats & Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammupmanoj&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammupmanoj&layout=compact&theme=radical" height="160"/>
-</p>
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ammupmanoj&theme=radical)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ammupmanoj&theme=radical)
 
----
 
-### 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://github.com/Ammupmanoj/Ammupmanoj/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 ### 💬 My Coding Quote
 > 🚀 **"Coding isn’t just my skill, it’s my superpower — one bug fix at a time."**
