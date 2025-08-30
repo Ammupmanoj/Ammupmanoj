@@ -58,19 +58,35 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ammupmanoj&theme=radical"/>
 </p>
 
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Ammupmanoj/Ammupmanoj/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ### 💬 My Coding Quote
 > 🚀 **"Coding isn’t just my skill, it’s my superpower — one bug fix at a time."**
 
+------
+
+### 🏆 Achievements & Milestones  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ammupmanoj&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
 ---
+
+### 🎯 Personal Highlights  
+- 🥇 **Completed 15+ Data Analytics Mini Projects** 📊  
+- 🔥 **Contributed regularly on GitHub** (streaks going strong 💪)  
+- 🚀 **Built and Deployed ML Projects** with Python & Streamlit  
+- 🎓 **B.Tech CSE Student** with focus on Data Science & Analytics  
+- 🏅 **Top skills in Python, Pandas, SQL & Visualization**  
+
+---
+
+### 🌟 Future Goals  
+- 💡 Publish **open-source projects** useful for beginners  
+- 📈 Build a **full-fledged Data Analytics Portfolio**  
+- 🌍 Contribute to **real-world AI/Data projects**  
+- 🎤 Share knowledge through **blogs & tutorials**  
+
 
 ### ✨ Motivation Booster
 <p align="center">
