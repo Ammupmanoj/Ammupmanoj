@@ -26,9 +26,13 @@
   <a href="https://github.com/Ammupmanoj" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  
 </p>
 
 ---
+## 📄 My Resume
+
+[![Resume](https://img.shields.io/badge/Download-Resume-red?style=for-the-badge&logo=adobeacrobatreader)](resume.pdf)
 
 ### 💫 About Me
 - 🎓 Pursuing **B.Tech in Computer Science Engineering**
