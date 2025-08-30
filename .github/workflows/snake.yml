@@ -1,25 +1,25 @@
 name: Generate Snake
 
 on:
-  schedule: # Run automatically everyday
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Manual trigger
+  schedule:
+    - cron: "0 */6 * * *" # har 6 ghante me update karega
+  workflow_dispatch: # manually run karne ka option
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout repo content
+        uses: actions/checkout@v2
 
-      - name: Generate Snake Game
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Ammupmanoj
           outputs: dist/snake.svg
 
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
