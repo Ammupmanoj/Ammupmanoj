@@ -30,9 +30,13 @@
 </p>
 
 ---
-## 📄 My Resume
+## 📄 My Resume  
 
-[![Resume](https://img.shields.io/badge/Download-Resume-red?style=for-the-badge&logo=adobeacrobatreader)](resume.pdf)
+<p align="center">
+  <a href="https://github.com/Ammupmanoj/resume/blob/main/Ammupmanoj.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" alt="Resume Button"/>
+  </a>
+</p>
 
 ### 💫 About Me
 - 🎓 Pursuing **B.Tech in Computer Science Engineering**
