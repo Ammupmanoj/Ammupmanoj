@@ -26,17 +26,36 @@
   <a href="https://github.com/Ammupmanoj" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  
 </p>
 
 ---
-## 📄 My Resume  
 
+## 📄 My Resume  
 <p align="center">
   <a href="https://github.com/Ammupmanoj/resume/blob/main/Ammupmanoj.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" alt="Resume Button"/>
   </a>
 </p>
+
+---
+
+## 🚀 Projects  
+
+<p align="center">
+  <a href="https://wordash-ashu-dictionary.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/📘%20WordAsh%20Dictionary-blue?style=for-the-badge" alt="WordAsh"/>
+  </a>
+  &nbsp;
+  <a href="https://unit-converter-app-hwvbqzmtloq9dssmuuwceb.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔢%20Unit%20Converter-orange?style=for-the-badge" alt="Unit Converter"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ammupmanoj/heart_disease_app" target="_blank">
+    <img src="https://img.shields.io/badge/❤️%20Heart%20Disease%20Prediction-red?style=for-the-badge" alt="Heart Disease Prediction"/>
+  </a>
+</p>  
+
+---
 
 ### 💫 About Me
 - 🎓 Pursuing **B.Tech in Computer Science Engineering**
@@ -66,14 +85,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ammupmanoj&theme=radical"/>
 </p>
 
+---
 
 ### 💬 My Coding Quote
 > 🚀 **"Coding isn’t just my skill, it’s my superpower — one bug fix at a time."**
 
-------
+---
 
 ### 🏆 Achievements & Milestones  
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ammupmanoj&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
@@ -95,6 +114,7 @@
 - 🌍 Contribute to **real-world AI/Data projects**  
 - 🎤 Share knowledge through **blogs & tutorials**  
 
+---
 
 ### ✨ Motivation Booster
 <p align="center">
