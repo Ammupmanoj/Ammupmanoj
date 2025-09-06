@@ -32,10 +32,11 @@
 
 ## 📄 My Resume  
 <p align="center">
-  <a href="https://github.com/Ammupmanoj/resume/blob/main/Ammupmanoj.pdf" target="_blank">
+  <a href="https://github.com/Ammupmanoj/Ammupmanoj/blob/main/Ammupmanoj.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" alt="Resume Button"/>
   </a>
 </p>
+
 
 ---
 
