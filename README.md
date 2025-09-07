@@ -85,11 +85,25 @@
 ---
 
 ### 🛠️ Tech Stack I’m Working With
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,sqlite,mysql,html,css" />
+<p align="center" style="margin:0;padding:0;">
+  <img src="https://skillicons.dev/icons?i=python" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=streamlit" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=kaggle" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=huggingface" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=git" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=github" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=html" height="38" style="margin:0;padding:0;"/>
+  <img src="https://skillicons.dev/icons?i=css" height="38" style="margin:0;padding:0;"/>
 </p>
 
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -145,4 +159,4 @@
   <a href="https://www.buymeacoffee.com/ammupmanoj" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
   </a>
-</p>
+</p>  
