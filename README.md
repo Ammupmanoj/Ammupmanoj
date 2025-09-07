@@ -27,6 +27,23 @@
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://leetcode.com/u/Ammupmanoj/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://share.streamlit.io/user/ammupmanoj" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/ammupmanoj" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/ammupmanoj" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
 
 ---
 
@@ -36,7 +53,6 @@
     <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" alt="Resume Button"/>
   </a>
 </p>
-
 
 ---
 
