@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Ashu (Ammu P Manoj)</h1>
-<h3 align="center">🚀 B.Tech CSE Student | 📊 Data Science & Analytics Enthusiast | ☕ Lifelong Learner</h3>
+<h3 align="center">🚀 B.Tech CSE Student  📊 Data Science & Analytics Enthusiast ☕ Lifelong Learner</h3>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Data+Enthusiast;👩‍💻+Learning+One+Bug+at+a+Time;🚀+Coding+is+my+Superpower!" />
