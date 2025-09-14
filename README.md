@@ -1,116 +1,60 @@
+<!-- 👀 Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ammupmanoj&label=Profile+Views&color=brightgreen&style=flat" alt="Ammupmanoj" />
+  <img src="https://komarev.com/ghpvc/?username=Ammupmanoj&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
-
----
 
 <h1 align="center">Hi 👋, I'm Ashu (Ammu P Manoj)</h1>
-<h3 align="center">🚀 B.Tech CSE Student  📊 Data Science & Analytics Enthusiast ☕ Lifelong Learner</h3>
+<h3 align="center">🚀 B.Tech CSE Student | 📊 Data Science & Analytics Enthusiast | ☕ Lifelong Learner</h3>
 
-<h2 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=🤖+AI+%26+Data+Enthusiast;👩‍💻+Learning+One+Bug+at+a+Time;🚀+Coding+is+my+Superpower!" />
-</h2>
-
----
-
-### 📫 Connect With Me
-<p align="center">
-  <a href="mailto:pmanojammu9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ammu-p-manoj-64976a377/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Ammupmanoj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://leetcode.com/u/Ammupmanoj/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  &nbsp;
-  <a href="https://share.streamlit.io/user/ammupmanoj" target="_blank">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/ammupmanoj" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/ammupmanoj" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
 </p>
 
 ---
 
-## 📄 My Resume  
+### 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:pmanojammu9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ammu-p-manoj-64976a377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Ammupmanoj"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Ammupmanoj/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://share.streamlit.io/user/ammupmanoj"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://huggingface.co/ammupmanoj"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://www.kaggle.com/ammupmanoj"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
+
+---
+
+### 💫 About Me  
+- 🎓 B.Tech in Computer Science Engineering @ Guru Kashi University  
+- 🔍 Passionate about **Data Science**, **Analytics**, and **AI**  
+- 💡 Exploring: Python | Pandas | SQL | Data Viz | ML | Streamlit  
+- 🧠 Building mini projects to sharpen skills and inspire others  
+- ⚡ Fun Fact: *Coding + Coffee = Perfect Day* 😄  
+
+---
+
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,numpy,pandas,sklearn,tensorflow,pytorch,matlab,r,huggingface,kaggle,opencv,mysql,sqlite,mongodb,postgres,streamlit,flask,django,react,nodejs,tailwind,bootstrap,aws,gcp,azure,docker,kubernetes,heroku,vercel,netlify,git,github,vscode,figma,notion,postman" />
+</p>
+
+---
+
+### 📄 My Resume  
 <p align="center">
   <a href="https://github.com/Ammupmanoj/Ammupmanoj/blob/main/Ammupmanoj.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" alt="Resume Button"/>
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-blue?style=for-the-badge" />
   </a>
 </p>
 
----
 
-## 🚀 Projects  
-
+### 📊 GitHub Stats  
 <p align="center">
-  <a href="https://wordash-ashu-dictionary.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/📘%20WordAsh%20Dictionary-blue?style=for-the-badge" alt="WordAsh"/>
-  </a>
-  &nbsp;
-  <a href="https://unit-converter-app-hwvbqzmtloq9dssmuuwceb.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🔢%20Unit%20Converter-orange?style=for-the-badge" alt="Unit Converter"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Ammupmanoj/heart_disease_app" target="_blank">
-    <img src="https://img.shields.io/badge/❤️%20Heart%20Disease%20Prediction-red?style=for-the-badge" alt="Heart Disease Prediction"/>
-  </a>
-</p>  
-
----
-
-### 💫 About Me
-- 🎓 Pursuing **B.Tech in Computer Science Engineering**
-- 🏫 Studying at **Guru Kashi University**, Talwandi Sabo, Bathinda
-- 🔍 Passionate about **Data Science** & **Data Analytics**
-- 💡 Exploring **Python | Pandas | SQL | Data Visualization**
-- 🧠 Currently building **mini projects** for my portfolio
-- ⚡ Fun Fact: *Coding + Coffee = Perfect Day* 😄
-
----
-
-### 🛠️ Tech Stack I’m Working With
-<p align="center" style="margin:0;padding:0;">
-  <img src="https://skillicons.dev/icons?i=python" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=numpy" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=streamlit" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=kaggle" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=huggingface" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=git" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=github" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=html" height="38" style="margin:0;padding:0;"/>
-  <img src="https://skillicons.dev/icons?i=css" height="38" style="margin:0;padding:0;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammupmanoj&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammupmanoj&theme=radical" height="170"/>
 </p>
-
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammupmanoj&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammupmanoj&theme=radical" alt="GitHub Streak" height="170"/>
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ammupmanoj&theme=radical"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ammupmanoj&theme=radical"/>
@@ -118,45 +62,36 @@
 
 ---
 
-### 💬 My Coding Quote
-> 🚀 **"Coding isn’t just my skill, it’s my superpower — one bug fix at a time."**
-
----
-
-### 🏆 Achievements & Milestones  
+### 🏆 Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ammupmanoj&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ammupmanoj&theme=radical&row=1&column=6" />
 </p>
 
----
-
-### 🎯 Personal Highlights  
-- 🥇 **Completed 15+ Data Analytics Mini Projects** 📊  
-- 🔥 **Contributed regularly on GitHub** (streaks going strong 💪)  
-- 🚀 **Built and Deployed ML Projects** with Python & Streamlit  
-- 🎓 **B.Tech CSE Student** with focus on Data Science & Analytics  
-- 🏅 **Top skills in Python, Pandas, SQL & Visualization**  
+- 🥇 Completed **15+ Data Analytics Projects**  
+- 🔥 Active GitHub Contributor (Streaks going strong 💪)  
+- 🚀 Deployed ML apps using Python + Streamlit  
+- 🧠 Top skills: Python, Pandas, SQL, Visualization  
 
 ---
 
 ### 🌟 Future Goals  
-- 💡 Publish **open-source projects** useful for beginners  
-- 📈 Build a **full-fledged Data Analytics Portfolio**  
-- 🌍 Contribute to **real-world AI/Data projects**  
-- 🎤 Share knowledge through **blogs & tutorials**  
+- 💡 Publish beginner-friendly open-source projects  
+- 📈 Build a full-fledged Data Analytics Portfolio  
+- 🌍 Contribute to real-world AI/Data projects  
+- 🎤 Share knowledge via blogs & tutorials  
 
----
 
-### ✨ Motivation Booster
+
+### ✨ Motivation Booster  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36FFC4&center=true&vCenter=true&width=600&lines=Powered+by+Logic.;Fueled+by+Coffee.;Driven+by+Curiosity."/>
 </p>
 
 ---
 
-### ☕ Support Me
+### ☕ Support Me  
 <p align="center">
   <a href="https://www.buymeacoffee.com/ammupmanoj" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
   </a>
-</p>  
+</p>
